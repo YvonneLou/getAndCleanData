@@ -8,7 +8,7 @@ activity - type of activity
 5 STANDING
 6 LAYING
 
-subject - subject who performed the activity
+subject - tester who performed the activity
 
 other features -
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 
